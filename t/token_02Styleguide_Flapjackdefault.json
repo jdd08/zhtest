@@ -1,0 +1,318 @@
+{
+  "sg": {
+    "color": {
+      "callout": {
+        "background": {
+          "color1": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.message.warning}"
+          },
+          "color2": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.message.informative}"
+          },
+          "color3": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.message.positive}"
+          },
+          "color4": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.message.negative}"
+          }
+        }
+      },
+      "designUpload": {
+        "annotation": {
+          "$type": "color",
+          "$value": "{zh.color.base.brand.darker}"
+        },
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "#f7f7f7"
+          }
+        },
+        "text": {
+          "annotation": {
+            "$type": "color",
+            "$value": "{color.grey.grey00}"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          }
+        }
+      },
+      "footer": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.neutral.primary}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{color.grey.grey80}"
+          }
+        },
+        "textIcon": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          },
+          "link": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.action.default}"
+          }
+        }
+      },
+      "logo": {
+        "text": {
+          "$type": "color",
+          "$value": "#212121"
+        }
+      },
+      "pageContent": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.neutral.primary}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.border.primary}"
+          }
+        },
+        "tabs": {
+          "border": {
+            "active": {
+              "$type": "color",
+              "$value": "{zh.color.base.brand.primary}"
+            }
+          },
+          "textIcon": {
+            "active": {
+              "$type": "color",
+              "$value": "{zh.color.base.text.neutral.primary}"
+            },
+            "default": {
+              "$type": "color",
+              "$value": "{zh.color.base.text.neutral.primary}"
+            }
+          }
+        },
+        "text": {
+          "accent": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.action.default}"
+          },
+          "body": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          },
+          "largeHeading": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          },
+          "links": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.action.default}"
+          },
+          "mediumHeading": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          },
+          "pageIntro": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.secondary}"
+          },
+          "pageTitle": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          },
+          "placeholder": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.tertiary}"
+          },
+          "secondaryBody": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.secondary}"
+          },
+          "smallHeading": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          }
+        }
+      },
+      "rules": {
+        "background": {
+          "caution": {
+            "$type": "color",
+            "$value": "#fff5dd"
+          },
+          "do": {
+            "$type": "color",
+            "$value": "#c5f4dd"
+          },
+          "dont": {
+            "$type": "color",
+            "$value": "#fecfcd"
+          },
+          "neutral": {
+            "$type": "color",
+            "$value": "#f7f7f7"
+          }
+        }
+      },
+      "sidebar": {
+        "background": {
+          "active": {
+            "$type": "color",
+            "$value": "#eeeeee"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.neutral.primary}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#f7f7f7"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.border.primary}"
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.secondary}"
+          }
+        },
+        "text": {
+          "active": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          },
+          "primary": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.secondary}"
+          }
+        }
+      },
+      "statusTag": {
+        "background": {
+          "color1": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.message.warning}"
+          },
+          "color2": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.message.informative}"
+          },
+          "color3": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.message.positive}"
+          },
+          "color4": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.message.negative}"
+          },
+          "color5": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.neutral.disabled}"
+          }
+        },
+        "border": {
+          "primary": {
+            "$type": "color",
+            "$value": "#21212126"
+          }
+        }
+      },
+      "table": {
+        "background": {
+          "alternate": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.neutral.secondary}"
+          },
+          "header": {
+            "$type": "color",
+            "$value": "#f2f1f2"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.border.primary}"
+          }
+        }
+      },
+      "topNavigation": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.neutral.primary}"
+          }
+        },
+        "border": {
+          "active": {
+            "$type": "color",
+            "$value": "{zh.color.base.brand.primary}"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.border.primary}"
+          }
+        },
+        "textIcon": {
+          "active": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.secondary}"
+          }
+        }
+      },
+      "uiElement": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.background.neutral.primary}"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "{zh.color.base.border.primary}"
+          }
+        },
+        "textIcon": {
+          "action": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.action.default}"
+          },
+          "primary": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.primary}"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "{zh.color.base.text.neutral.secondary}"
+          }
+        }
+      }
+    }
+  }
+}
