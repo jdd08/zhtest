@@ -1,0 +1,318 @@
+{
+  "sg": {
+    "color": {
+      "callout": {
+        "background": {
+          "color1": {
+            "$type": "color",
+            "$value": "#f2be5a"
+          },
+          "color2": {
+            "$type": "color",
+            "$value": "#51a9e3"
+          },
+          "color3": {
+            "$type": "color",
+            "$value": "#6addb2"
+          },
+          "color4": {
+            "$type": "color",
+            "$value": "#f35265"
+          }
+        }
+      },
+      "designUpload": {
+        "annotation": {
+          "$type": "color",
+          "$value": "#0263e0"
+        },
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "#f4f4f6"
+          }
+        },
+        "text": {
+          "annotation": {
+            "$type": "color",
+            "$value": "#ffffff"
+          },
+          "label": {
+            "$type": "color",
+            "$value": "#121c2d"
+          }
+        }
+      },
+      "footer": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "#cacdd8"
+          }
+        },
+        "textIcon": {
+          "default": {
+            "$type": "color",
+            "$value": "#121c2d"
+          },
+          "link": {
+            "$type": "color",
+            "$value": "#0263e0"
+          }
+        }
+      },
+      "logo": {
+        "text": {
+          "$type": "color",
+          "$value": "#212121"
+        }
+      },
+      "pageContent": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "#ffffff"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "#cacdd8"
+          }
+        },
+        "tabs": {
+          "border": {
+            "active": {
+              "$type": "color",
+              "$value": "#0263e0"
+            }
+          },
+          "textIcon": {
+            "active": {
+              "$type": "color",
+              "$value": "#121c2d"
+            },
+            "default": {
+              "$type": "color",
+              "$value": "#606b85"
+            }
+          }
+        },
+        "text": {
+          "accent": {
+            "$type": "color",
+            "$value": "#0263e0"
+          },
+          "body": {
+            "$type": "color",
+            "$value": "#121c2d"
+          },
+          "largeHeading": {
+            "$type": "color",
+            "$value": "#121c2d"
+          },
+          "links": {
+            "$type": "color",
+            "$value": "#0263e0"
+          },
+          "mediumHeading": {
+            "$type": "color",
+            "$value": "#121c2d"
+          },
+          "pageIntro": {
+            "$type": "color",
+            "$value": "#606b85"
+          },
+          "pageTitle": {
+            "$type": "color",
+            "$value": "#121c2d"
+          },
+          "placeholder": {
+            "$type": "color",
+            "$value": "#949eb6"
+          },
+          "secondaryBody": {
+            "$type": "color",
+            "$value": "#606b85"
+          },
+          "smallHeading": {
+            "$type": "color",
+            "$value": "#121c2d"
+          }
+        }
+      },
+      "rules": {
+        "background": {
+          "caution": {
+            "$type": "color",
+            "$value": "#f2be5a"
+          },
+          "do": {
+            "$type": "color",
+            "$value": "#6addb2"
+          },
+          "dont": {
+            "$type": "color",
+            "$value": "#f35265"
+          },
+          "neutral": {
+            "$type": "color",
+            "$value": "#f4f4f6"
+          }
+        }
+      },
+      "sidebar": {
+        "background": {
+          "active": {
+            "$type": "color",
+            "$value": "#e1e3ea"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "#f4f4f6"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#e1e3ea"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "#cacdd8"
+          }
+        },
+        "icon": {
+          "default": {
+            "$type": "color",
+            "$value": "#606b85"
+          }
+        },
+        "text": {
+          "active": {
+            "$type": "color",
+            "$value": "#121c2d"
+          },
+          "primary": {
+            "$type": "color",
+            "$value": "#121c2d"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "#606b85"
+          }
+        }
+      },
+      "statusTag": {
+        "background": {
+          "color1": {
+            "$type": "color",
+            "$value": "#f2be5a"
+          },
+          "color2": {
+            "$type": "color",
+            "$value": "#51a9e3"
+          },
+          "color3": {
+            "$type": "color",
+            "$value": "#6addb2"
+          },
+          "color4": {
+            "$type": "color",
+            "$value": "#f35265"
+          },
+          "color5": {
+            "$type": "color",
+            "$value": "#f4f4f6"
+          }
+        },
+        "border": {
+          "primary": {
+            "$type": "color",
+            "$value": "#21212126"
+          }
+        }
+      },
+      "table": {
+        "background": {
+          "alternate": {
+            "$type": "color",
+            "$value": "#f5f4f4"
+          },
+          "header": {
+            "$type": "color",
+            "$value": "#efecec"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "#e5e1e1"
+          }
+        }
+      },
+      "topNavigation": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "#f4f4f6"
+          }
+        },
+        "border": {
+          "active": {
+            "$type": "color",
+            "$value": "#0263e0"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "#cacdd8"
+          }
+        },
+        "textIcon": {
+          "active": {
+            "$type": "color",
+            "$value": "#121c2d"
+          },
+          "default": {
+            "$type": "color",
+            "$value": "#606b85"
+          }
+        }
+      },
+      "uiElement": {
+        "background": {
+          "default": {
+            "$type": "color",
+            "$value": "#f4f4f6"
+          }
+        },
+        "border": {
+          "default": {
+            "$type": "color",
+            "$value": "#cacdd8"
+          }
+        },
+        "textIcon": {
+          "action": {
+            "$type": "color",
+            "$value": "#0263e0"
+          },
+          "primary": {
+            "$type": "color",
+            "$value": "#121c2d"
+          },
+          "secondary": {
+            "$type": "color",
+            "$value": "#606b85"
+          }
+        }
+      }
+    }
+  }
+}
