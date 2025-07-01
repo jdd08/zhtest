@@ -1,47 +1,78 @@
 {
-  "Enchanted Pink": {
+  "base": {
+    "$description": "All the base color tokens",
     "$type": "color",
-    "$value": "#FBC7E2",
-    "$description": "A playful and magical pastel pink reminiscent of Speak Now’s whimsy and Taylor’s youthful sparkle"
+    "palette": {
+      "primary30": {
+        "$type": "color",
+        "$value": "#4F378B"
+      },
+      "primary50": {
+        "$type": "color",
+        "$value": "#826BBB"
+      },
+      "primary70": {
+        "$type": "color",
+        "$value": "#B6A1E9"
+      },
+      "primary90": {
+        "$type": "color",
+        "$value": "#EADDFF"
+      }
+    },
+    "backgrounds": {
+      "light-primary": {
+        "$type": "color",
+        "$value": "{base.palette.primary90}"
+      },
+      "dark-primary": {
+        "$type": "color",
+        "$value": "{base.palette.primary30}"
+      }
+    }
   },
-  "Folklore Fog": {
-    "$type": "color",
-    "$value": "#664D5F",
-    "$description": "A moody, dusky gray-purple that reflects the introspective and enchanting spirit of Folklore"
+  "sizes": {
+    "$type": "dimension",
+    "base spacing": {
+      "$value": "0.25rem"
+    },
+    "digital": {
+      "web": {
+        "$value": "4rem"
+      },
+      "devices": {
+        "tablet": {
+          "$value": "80px"
+        },
+        "mobile": {
+          "$value": "{sizes.base spacing}"
+        }
+      }
+    }
   },
-  "Lavendar Haze": {
-    "$type": "color",
-    "$value": "#B57EDC",
-    "$description": "A soft purple with dreamy vibes"
+  "typography": {
+    "primary font": {
+      "$value": "Comic Sans MS",
+      "$type": "fontFamily"
+    },
+    "font-weight-default": {
+      "$value": 350,
+      "$type": "fontWeight"
+    }
   },
-  "Lover's Blush": {
-    "$type": "color",
-    "$value": "#AE7B9B",
-    "$description": "A soft, romantic mauve that captures the dreamy vibes of Taylor's Lover era, evoking sunsets and heartfelt moments"
-  },
-  "Maroon Mystique": {
-    "$type": "color",
-    "$value": "#800000",
-    "$description": "A deep maroon for boldness"
-  },
-  "Playfair Display": {
-    "$type": "fontFamily",
-    "$value": "Playfair Display",
-    "$description": "Primary font - headings/titles"
-  },
-  "Poppins": {
-    "$type": "fontFamily",
-    "$value": "Poppins",
-    "$description": "Secondary font - body/text"
-  },
-  "Red Velvet": {
-    "$type": "color",
-    "$value": "#975A73",
-    "$description": "A rich, warm berry hue that recalls the passionate and iconic themes of Red"
-  },
-  "Reputation Rose": {
-    "$type": "color",
-    "$value": "#8E3F51",
-    "$description": "A bold and dramatic crimson shade with hints of mystery"
+  "animation": {
+    "$description": "Random tokens",
+    "basics": {
+      "small": {
+        "$type": "cubicBezier",
+        "$description": "Basic animation coordinates",
+        "$value": [0, 0, 0.5, 1]
+      },
+      "Duration-100": {
+        "$value": "100ms",
+        "$description": "Average durations of an animation",
+        "$type": "duration"
+      }
+    }
   }
 }
