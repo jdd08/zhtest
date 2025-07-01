@@ -1,0 +1,47 @@
+{
+  "Enchanted Pink": {
+    "$type": "color",
+    "$value": "#FBC7E2",
+    "$description": "A playful and magical pastel pink reminiscent of Speak Now’s whimsy and Taylor’s youthful sparkle"
+  },
+  "Folklore Fog": {
+    "$type": "color",
+    "$value": "#664D5F",
+    "$description": "A moody, dusky gray-purple that reflects the introspective and enchanting spirit of Folklore"
+  },
+  "Lavendar Haze": {
+    "$type": "color",
+    "$value": "#B57EDC",
+    "$description": "A soft purple with dreamy vibes"
+  },
+  "Lover's Blush": {
+    "$type": "color",
+    "$value": "#AE7B9B",
+    "$description": "A soft, romantic mauve that captures the dreamy vibes of Taylor's Lover era, evoking sunsets and heartfelt moments"
+  },
+  "Maroon Mystique": {
+    "$type": "color",
+    "$value": "#800000",
+    "$description": "A deep maroon for boldness"
+  },
+  "Playfair Display": {
+    "$type": "fontFamily",
+    "$value": "Playfair Display",
+    "$description": "Primary font - headings/titles"
+  },
+  "Poppins": {
+    "$type": "fontFamily",
+    "$value": "Poppins",
+    "$description": "Secondary font - body/text"
+  },
+  "Red Velvet": {
+    "$type": "color",
+    "$value": "#975A73",
+    "$description": "A rich, warm berry hue that recalls the passionate and iconic themes of Red"
+  },
+  "Reputation Rose": {
+    "$type": "color",
+    "$value": "#8E3F51",
+    "$description": "A bold and dramatic crimson shade with hints of mystery"
+  }
+}
